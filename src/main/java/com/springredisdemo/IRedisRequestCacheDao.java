@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.firsthelpfinancial;
+package com.springredisdemo;
 
 import java.util.Map;
 

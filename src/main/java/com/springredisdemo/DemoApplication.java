@@ -1,4 +1,4 @@
-package com.firsthelpfinancial;
+package com.springredisdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
